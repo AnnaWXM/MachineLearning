@@ -18,8 +18,7 @@ Date: September 2022 to November 2022
 
 ## final-Suicide Prediction 
 
-This project discovers the relationship between GDP per capita and suicide rate in each country, and compare difference between algorithms.
-The goal of the project was to compare the performance accuracy of machine learning algorithm for regression. 
+This project discovers the relationship between GDP per capita and suicides rate in different countries by regression, and compares different supervised learning algorithms with accuracy.
 
 Date: November 2022
 
