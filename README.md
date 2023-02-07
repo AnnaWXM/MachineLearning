@@ -16,6 +16,12 @@ Date: September 2022 to November 2022
 5) ANN
 6) CNN
 
+### Technology
+
+Python
+
+Colab
+
 
 ## More projects you may be interested
 https://github.com/AnnaWXM/Correlation-between-Suicide-Rate-and-GDP
